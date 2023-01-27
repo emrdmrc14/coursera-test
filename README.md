@@ -1,4 +1,3 @@
 # coursera-test
 Coursera test repository
-theme:Cayman
-https://github.com/pages-themes/cayman.git
+remote_theme: pages-themes/cayman@v0.2.0
